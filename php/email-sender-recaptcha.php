@@ -4,7 +4,7 @@ session_cache_limiter('nocache');
 header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
-$Recipient = 'set_your_email_here@domain.com'; // <-- Set your email here
+$Recipient = 'prodigygit@yahoo.com'; // <-- Set your email here
 
 // Register API keys at https://www.google.com/recaptcha/admin
 $siteKey = "your_site_key";
