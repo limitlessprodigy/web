@@ -7,3 +7,18 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+.text-default {
+  color:#FF0000;
+}
+
+.btn-default {
+  color: #ffffff;
+  background-color: #FF0000;
+  border-color: #FF0000;
+}
+
+.fp-nav {
+  background-color: #FF0000;
+  color: #ffffff;
+}
