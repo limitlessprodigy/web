@@ -44,3 +44,11 @@ File Description: Place here your custom CSS styles
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateZ(0) scale(1, 1);
 }
+
+ .scrollToTop .circle {
+  background-color: #FF0000;
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background: #FF0000;
+}
