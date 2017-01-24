@@ -1,6 +1,5 @@
 /* LP Web Solutions
  * Author: Marc Lewis
- * License URI:http://support.wrapbootstrap.com/
  * File Description: Initializations of plugins
  */
 
